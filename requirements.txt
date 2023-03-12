@@ -1,4 +1,4 @@
 Django
 mysqlclient
-djangorestframework
 django-environ
+Pillow
